@@ -1,7 +1,7 @@
 - 👋 Hi... I’m Breanna!
-- 👀 I am looking for: A remote, software developer position.
-- 💻 2.5 years of experience with Python, C#, VB.NET, and SQL.
-- ❤️ Besides coding, I enjoy: staying active, and play lots of video games!
+- 👀 I am looking for: A remote/hybrid QA role.
+- 💻 3 years of experience with back-end development and the following languages: Python, C#, VB.NET, and SQL.
+- ❤️ Besides coding and testing, I enjoy: staying active, and play lots of video games!
 - 📫 How to reach me: starikabreanna@gmail.com OR https://www.linkedin.com/in/breannastarikasoftwaredeveloper/
 
 <!---
