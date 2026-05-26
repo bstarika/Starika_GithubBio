@@ -1,8 +1,8 @@
-- 👋 Hi... I’m Breanna!
-- 👀 I am looking for: A remote/hybrid QA role.
-- 💻 3 years of experience with back-end development and the following languages: Python, C#, VB.NET, and SQL.
-- ❤️ Besides coding and testing, I enjoy: staying active, and play lots of video games!
-- 📫 How to reach me: starikabreanna@gmail.com OR https://www.linkedin.com/in/breannastarikasoftwaredeveloper/
+👋 Hi, I’m Breanna
+💻 Software Developer with 3+ years of experience in backend development using Python, C#, VB.NET, and SQL
+🧪 Experienced in quality assurance (QA) and software testing using Selenium and Postman
+🎮 Outside of tech, I enjoy staying active and playing video games
+📫 Connect with me at: starikabreanna@gmail.com or https://www.linkedin.com/in/breannastarikadevtest/
 
 <!---
 bstarika/bstarika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
