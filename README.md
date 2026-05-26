@@ -1,7 +1,7 @@
-👋 Hi, I’m Breanna
-💻 Software Developer with 3+ years of experience in backend development using Python, C#, VB.NET, and SQL
-🧪 Experienced in quality assurance (QA) and software testing using Selenium and Postman
-🎮 Outside of tech, I enjoy staying active and playing video games
+👋 Hi, I’m Breanna <br>
+💻 Software Developer with 3+ years of experience in backend development using Python, C#, VB.NET, and SQL <br>
+🧪 Experienced in quality assurance (QA) and software testing using Selenium and Postman <br>
+🎮 Outside of tech, I enjoy staying active and playing video games <br>
 📫 Connect with me at: starikabreanna@gmail.com or https://www.linkedin.com/in/breannastarikadevtest/
 
 <!---
